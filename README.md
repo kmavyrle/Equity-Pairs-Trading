@@ -1,2 +1,2 @@
 # Equity Pairs Trading
- Equity relative value trading strategy via statistical techniques
+A simple code implementation for equity relative value trading via statistical techniques
